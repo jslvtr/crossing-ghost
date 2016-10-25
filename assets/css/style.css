@@ -229,7 +229,7 @@ body {
   background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0) 150px);
   background-repeat: no-repeat;
   color: #333;
-  font-family: "Open Sans", sans-serif;
+  font-family: -apple-system, "Open Sans", sans-serif;
   font-size: 18px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -241,8 +241,8 @@ body {
 
 @media (min-width: 768px) {
   body {
-    font-size: 20px;
-    line-height: 30px;
+    font-size: 18px;
+    line-height: 27px;
   }
 }
 
