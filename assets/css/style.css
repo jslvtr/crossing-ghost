@@ -314,6 +314,9 @@ code {
 
 code {
   color: #000;
+  background-color: #f5f5f5;
+  padding: 3px 5px;
+  font-size: 90%;
 }
 
 pre {
@@ -322,6 +325,7 @@ pre {
   padding: 7px 20px;
   word-break: normal;
   word-wrap: normal;
+  background-color: #f5f5f5;
 }
 
 @media (min-width: 768px) {
